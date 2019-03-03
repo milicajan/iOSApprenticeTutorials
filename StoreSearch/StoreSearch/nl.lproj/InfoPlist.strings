@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  StoreSearch
+
+  Created by Milica Jankovic on 1/8/19.
+  Copyright © 2019 Milica Jankovic. All rights reserved.
+*/
+
+CFBundleDisplayName = "StoreZoeker";
